@@ -9,12 +9,21 @@ de forma organizada e segura em aplicações serverless, utilizando as funcional
 Lambda e API Gateway.
 
 ---
+## Cenário 
 
+Fui contratado para desenvolver ou manter uma API serverless que serve como backend para uma aplicação. É crucial poder implantar e testar novas funcionalidades
+ou correções em um ambiente isolado (desenvolvimento) antes de liberá-las para os usuários finais (produção). É necessário um mecanismo que permita ter endpoints
+de API estáveis para cada ambiente (/dev/recurso e /prod/recurso, por exemplo), onde cada um invoque a versão apropriada do código da sua função Lambda, sem a
+necessidade de criar APIs ou funções separadas para cada ambiente. Este laboratório implementa exatamente essa solução usando Aliases do Lambda e Stages do API
+Gateway.
+
+---
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem:** Python 3.9  
 - **Bibliotecas:** Boto3  
 - **AWS Lambda e Lambda Aliases**
-- **API Gateway com Stages** 
+- **API Gateway com Stages**
+- **IAM**
 
 ---
 
