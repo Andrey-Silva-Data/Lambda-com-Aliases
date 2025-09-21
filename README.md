@@ -79,9 +79,8 @@ Lambda e API Gateway.
 
 ## 📎 Links Importantes
 - 🔗 **Portfólio:** [https://seuusuario.github.io/portfolio](https://seuusuario.github.io/portfolio)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/techprofessional-AndreySilva/ 
-- 🔗 **GitHub:** [https://github.com/seuusuario](https://github.com/seuusuario)
-
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/techprofessional-AndreySilva/ 
+- 🔗 **GitHub:** https://github.com/Andrey-Silva-Data/Lambda-com-Aliases.git
 ---
 
 ## 📜 Licença
